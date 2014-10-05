@@ -40,4 +40,4 @@ def gotURL(uncheckedURL):
 	else:
 		return False
 
-print gotURL("http://www.mediafire.com/download/zbev193pi6js93x/league.exe")
+print gotURL(INSERT URL HERE)
